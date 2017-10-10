@@ -62,7 +62,7 @@ DataX目前已经有了比较全面的插件体系，主流的RDBMS数据库、N
 
 核心Contributions:  光戈、一斅、祁然、云时
 
-感谢天烬、巴真对DataX做出的贡献。
+感谢天烬、巴真、静行对DataX做出的贡献。
 
 # License
 
@@ -70,6 +70,10 @@ This software is free to use under the Apache License [Apache license](https://g
 
 # 
 请及时提出issue给我们。请前往：[DataxIssue](https://github.com/alibaba/DataX/issues)
+
+# 开源版DataX企业用户
+
+![Datax-logo](https://github.com/alibaba/DataX/blob/master/images/datax-enterprise-users.jpg)
 
 ```
 长期招聘 联系邮箱：hanfa.shf@alibaba-inc.com
